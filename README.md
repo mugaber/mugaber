@@ -14,20 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Muhamed Gaber</h1>
-<h3 align="center">A Frontend Engineer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Gaber</h1>
+<h3 align="center">A Software Engineer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/mu_gaber" target="blank"><img src="https://img.shields.io/twitter/follow/mu_gaber?logo=twitter&style=for-the-badge" alt="mu_gaber" /></a> </p>
 
-- I have worked with [Outlier.org](https://github.com/outlier-org for over 4 years.
-- 🔭 I’m currently working with [SuperStruct](https://www.linkedin.com/company/superstruct-international/)
-
-- 📫 How to reach me **mohammedgaber273@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mu_gaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mu_gaber" height="30" width="40" /></a>
-</p>
+- I’m currently working with [SuperStruct](https://www.linkedin.com/company/superstruct-international/)
+- I have worked with [Outlier.org](https://github.com/outlier-org) for over 4 years
+- My upwork profile, [here](https://www.upwork.com/fl/~01b3d59d9a447cf811?mp_source=share)
+- 📫 You can reach me here **mohammedgaber273@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
